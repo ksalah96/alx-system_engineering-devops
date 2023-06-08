@@ -1,2 +1,2 @@
 #!/bin/bash
-chuser -R guillaume betty
+chown --from=guillaume betty hello
